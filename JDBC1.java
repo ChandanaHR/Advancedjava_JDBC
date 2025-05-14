@@ -48,3 +48,8 @@ public class jdbc1example {
 	}
 
 }
+Connected to the database!
+User Data:
+ID: 101, Name: chandu
+ID: 102, Name: asha
+ID: 103, Name: kavitha
